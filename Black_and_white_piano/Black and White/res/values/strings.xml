@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- TO MODIFY MOST OF THE COLORS AND VARIABLES OPEN MAINGAME.JAVA AND SEARCH FOR TODO TAGS. THEY INDICATE THINGS YOU NEED TO CHANGE -->
+    <!-- App Name -->
+    <string name="app_name">Black and White</string>
+
+    <!-- Game Over -->
+    <string name="Share">share</string>
+
+    <!-- Top scores -->
+    <string name="your_top">Best:</string>
+
+    <!-- Game Play -->
+    <string name="Paused">Paused</string>
+    <string name="Tap_to_start2">Don\'t touch the white tiles!</string>
+
+    <!-- Classic variables______________________________ -->
+    <string name="classic_instruction">Tap on the black tiles as fast as you can.</string>
+
+    <!-- Arcade variables______________________________ -->
+    <integer name="arcade_starting_speed">600</integer>
+    <integer name="arcade_acceleration">2</integer>
+
+    <string name="arcade_instruction">Don\'t let any black tile left untapped.</string>
+
+    <!-- Zen variables______________________________ -->
+    <integer name="Zen_starting_time_in_milliseconds">10000</integer>
+
+    <string name="zen_instruction">How many black tiles can you tap in 10 seconds.</string>
+
+    <!-- Bomb variables______________________________ -->
+    <integer name="Bomb_starting_speed">600</integer>
+    <integer name="bomb_acceleration">2</integer>
+
+    <string name="bomb_instruction">Don\'t tap the red bombs.</string>
+
+    <!-- score formatting -->
+    <string name="score_suffix">\"</string>
+
+    <!-- Main Menu -->
+    <string name="Arcade">Arcade</string>
+    <string name="Zen">Zen</string>
+    <string name="Bomb">Bomb</string>
+    <string name="Classic">Classic</string>
+
+    <!-- Primary Colors -->
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="red">#ffDC574E</color>
+    <color name="green">#ffA7BD5B</color>
+    <color name="grey">#ffB8B8B8</color>
+    <color name="trans_black">#aa2F3738</color>
+
+    <integer name="blocks_per_row">4</integer>
+
+    <!-- Admob settings____________________________________________________________________________________________________________________ -->
+    <!-- Banner Ad unit id - you should get the banner ad unit id from admob - OPTIONAL - MAY BE LEFT EMPTY TO DISABLE BANNER ADS -->
+    <string name="BannerAd_unit_id"></string>
+
+    <!-- Interstitial Ad unit id - you should get the Interstitial ad unit id from admob - OPTIONAL - MAY BE LEFT EMPTY TO DISABLE INTERSTITIAL ADS -->
+    <string name="InterstitialAd_unit_id"></string>
+
+    <!-- The Interstitial ad can be shown once every 2 gameovers. replace with 1 to show it after every gameover -->
+    <integer name="ad_shows_every_X_gameovers">3</integer>
+
+    <!-- Leaderboard settings____________________________________________________________________________________________________________________ -->
+    <!-- Google Play services game id. You may leave this empty if you don't wish to use google Play services -->
+    <string name="app_id"></string>
+    <!-- Google Play services leaderboard Ids - You need to create 4 leaderboards in google Play developer console, one for each top score. Then just get each one's id and put it here -->
+    <string name="Classic_leaderboard_id"></string>
+    <string name="Arcade_leaderboard_id"></string>
+    <string name="Zen_leaderboard_id"></string>
+    <string name="Bomb_leaderboard_id"></string>
+    <!-- Google Play success/error -->
+    <string name="google_Play_signed_in_successfully">Google Play - Signed In</string>
+    <string name="google_Play_signed_in_error">Google Play - Not Signed In</string>
+
+    <!-- Rate button settings__________________________________________________________________________________________________ -->
+    <!-- link is created automatically from package. Make sure package id is the same as the one used in google play -->
+    <string name="unable_to_reach_market">Error reaching market. Please check your internet connection</string>
+
+</resources>
