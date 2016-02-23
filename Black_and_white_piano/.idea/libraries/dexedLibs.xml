@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Black and White/bin/dexedLibs/google-play-services-be241ac70bdf236234b67b1e7342ac5a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Black and White/bin/dexedLibs/basegameutils-6c5783cd55d4cbef15e2d45064e206e0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Black and White/bin/dexedLibs/GoogleAdMobAdsSdk-6.0.1-fe180853d0226359c4bc1e7d7707de37.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Black and White/bin/dexedLibs/facebooksdk-5b7d7e1d3804d6780694462da037e549.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Black and White/bin/dexedLibs/google-play-services_lib-a098e51bfd32470b3041ff87a7025ebc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Black and White/bin/dexedLibs/android-support-v4-3b825803364bf8c8d0adcae24c8c47e1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Black and White/bin/dexedLibs/android-support-v4-66ed0fbe523bb80639dce55f0d1604fb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

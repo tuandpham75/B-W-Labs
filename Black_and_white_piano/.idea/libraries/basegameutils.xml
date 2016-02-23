@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="basegameutils">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BaseGameUtils/bin/basegameutils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
